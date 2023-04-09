@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Kazungu!
 
-<!--
+I'm a software engineer with a love for backend development. I'm currently working React to create easy-to-use and beautiful web apps. I strive to make technology industry more accessible to aspiring developers and engineers by creating content to share the mistakes i"ve made and the lessons i've learnt along my software engineering journey so far. <!--
 **kazungu01/kazungu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**FUN FACTS** 😄
+I love marvel movies and recently started diving into the comics. My favourite character is **Thanos**
+I also love travelling to new places.
+If i'm not coding, I am most likely to be found playing FIFA with friends or volunteering at my community.
+
 
 Here are some ideas to get you started:
 
